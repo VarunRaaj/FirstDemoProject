@@ -1,1 +1,1 @@
-this is my first text I entered to view changes.
+this is my second change which i just edited to view the changes using diff.
