@@ -1,0 +1,1 @@
+Hello this is mt first time trying to git add . and git commit
