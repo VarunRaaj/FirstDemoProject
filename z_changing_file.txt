@@ -1,1 +1,3 @@
 this is my second change which i just edited to view the changes using diff.
+
+changes I did to compare stage area amd repo .. as diff compares between the work area and staged only...
